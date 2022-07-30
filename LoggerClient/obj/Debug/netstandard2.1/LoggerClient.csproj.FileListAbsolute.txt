@@ -1,0 +1,10 @@
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\bin\Debug\netstandard2.1\LoggerClient.deps.json
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\bin\Debug\netstandard2.1\LoggerClient.dll
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\bin\Debug\netstandard2.1\LoggerClient.pdb
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\obj\Debug\netstandard2.1\LoggerClient.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\obj\Debug\netstandard2.1\LoggerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\obj\Debug\netstandard2.1\LoggerClient.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\obj\Debug\netstandard2.1\LoggerClient.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\obj\Debug\netstandard2.1\LoggerClient.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\obj\Debug\netstandard2.1\LoggerClient.dll
+C:\Users\marce\OneDrive\Privat\source-codes\LoggerClient\LoggerClient\obj\Debug\netstandard2.1\LoggerClient.pdb
